@@ -1,0 +1,26 @@
+body {
+  width: 100%; 
+  min-width: 600px; 
+  max-width: 960px;  
+  margin: 0 auto; 
+  text-align: center;
+}	
+header {
+  margin: 1%; 
+  padding: 10px;
+  background: #eaeaea;
+}
+main {
+  width: 100%;
+}	
+.photo {
+  float: left;	  
+  width: 31%;  
+  margin: 1%;
+  border: solid silver 1px;		
+}
+footer {
+  clear: left; 
+  margin: 1%;
+  padding: 10px;
+}
